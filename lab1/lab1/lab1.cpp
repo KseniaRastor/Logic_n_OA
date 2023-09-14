@@ -30,7 +30,7 @@ void main(){
 
 	for (i = 0; i < n; i++) {							//инициализацию массива произвольного размера случайными числами
 		for (j = 0; j < m; j++) {
-			pmas[i * m + j] = rand()%100;
+			pmas[i * m + j] = rand()%100-20;
 			printf ("%5d ", pmas[i * m + j]);
 		}
 		printf("\n");	
