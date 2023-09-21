@@ -1,0 +1,4 @@
+﻿  lab2_2.cpp
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab2\lab2_2\lab2_2\lab2_2.cpp(45,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab2\lab2_2\lab2_2\lab2_2.cpp(55,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab2_2.vcxproj -> D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab2\lab2_2\x64\Debug\lab2_2.exe

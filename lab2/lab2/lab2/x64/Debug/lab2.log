@@ -1,0 +1,15 @@
+﻿  lab2.cpp
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab2\lab2\lab2\lab2.cpp(76,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab2\lab2\lab2\lab2.cpp(87,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab2\lab2\lab2\lab2.cpp(92,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab2\lab2\lab2\lab2.cpp(97,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab2\lab2\lab2\lab2.cpp(117,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab2\lab2\lab2\lab2.cpp(122,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab2\lab2\lab2\lab2.cpp(127,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab2\lab2\lab2\lab2.cpp(149,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab2\lab2\lab2\lab2.cpp(154,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab2\lab2\lab2\lab2.cpp(159,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab2\lab2\lab2\lab2.cpp(186,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab2\lab2\lab2\lab2.cpp(191,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab2\lab2\lab2\lab2.cpp(196,38): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  lab2.vcxproj -> D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab2\lab2\x64\Debug\lab2.exe
