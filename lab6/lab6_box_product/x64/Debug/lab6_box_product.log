@@ -1,0 +1,8 @@
+﻿  lab6_box_product.cpp
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab6\lab6_box_product\lab6_box_product.cpp(34,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab6\lab6_box_product\lab6_box_product.cpp(11,32): warning C4101: v_tmp: неиспользованная локальная переменная
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab6\lab6_box_product\lab6_box_product.cpp(11,6): warning C4101: v1_keyboard: неиспользованная локальная переменная
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab6\lab6_box_product\lab6_box_product.cpp(11,43): warning C4101: v2: неиспользованная локальная переменная
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab6\lab6_box_product\lab6_box_product.cpp(11,39): warning C4101: v1: неиспользованная локальная переменная
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab6\lab6_box_product\lab6_box_product.cpp(11,19): warning C4101: v2_keyboard: неиспользованная локальная переменная
+  lab6_box_product.vcxproj -> D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab6\x64\Debug\lab6_box_product.exe
