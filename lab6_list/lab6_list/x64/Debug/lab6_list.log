@@ -1,0 +1,9 @@
+﻿  lab6_list.cpp
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab6_list\lab6_list\lab6_list.cpp(98,6): warning C4101: mas_tops: неиспользованная локальная переменная
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab6_list\lab6_list\lab6_list.cpp(493,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab6_list\lab6_list\lab6_list.cpp(471,32): warning C4101: v_tmp: неиспользованная локальная переменная
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab6_list\lab6_list\lab6_list.cpp(471,43): warning C4101: v2: неиспользованная локальная переменная
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab6_list\lab6_list\lab6_list.cpp(470,10): warning C4101: n2: неиспользованная локальная переменная
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab6_list\lab6_list\lab6_list.cpp(471,39): warning C4101: v1: неиспользованная локальная переменная
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab6_list\lab6_list\lab6_list.cpp(539,6): warning C4101: n: неиспользованная локальная переменная
+  lab6_list.vcxproj -> D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab6_list\x64\Debug\lab6_list.exe
