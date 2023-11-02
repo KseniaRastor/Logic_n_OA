@@ -1,0 +1,4 @@
+﻿  lab7_stack.cpp
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab7\lab7_stack\lab7_stack.cpp(80,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab7\lab7_stack\lab7_stack.cpp(65,9): warning C4101: v1: неиспользованная локальная переменная
+  lab7_stack.vcxproj -> D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab7\x64\Debug\lab7_stack.exe
