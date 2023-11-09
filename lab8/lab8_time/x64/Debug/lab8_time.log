@@ -1,0 +1,5 @@
+﻿  lab8_time.cpp
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab8\lab8_time\lab8_time.cpp(154,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab8\lab8_time\lab8_time.cpp(179,37): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab8\lab8_time\lab8_time.cpp(200,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  lab8_time.vcxproj -> D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab8\x64\Debug\lab8_time.exe
