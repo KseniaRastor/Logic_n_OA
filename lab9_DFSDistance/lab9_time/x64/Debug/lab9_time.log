@@ -1,0 +1,5 @@
+﻿  lab9_time.cpp
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab9_DFSDistance\lab9_time\lab9_time.cpp(86,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab9_DFSDistance\lab9_time\lab9_time.cpp(106,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab9_DFSDistance\lab9_time\lab9_time.cpp(124,40): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  lab9_time.vcxproj -> D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\laboratory_work\lab9_DFSDistance\x64\Debug\lab9_time.exe
