@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\Курсовая Л и ОА\max_matching\max_matching\MyForm.h(286,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\Курсовая Л и ОА\max_matching\max_matching\MyForm.h(305,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\Курсовая Л и ОА\max_matching\max_matching\MyForm.h(311,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\Курсовая Л и ОА\max_matching\max_matching\MyForm.h(315,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\Курсовая Л и ОА\max_matching\max_matching\MyForm.h(318,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\Курсовая Л и ОА\max_matching\max_matching\MyForm.h(339,19): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\Курсовая Л и ОА\max_matching\max_matching\MyForm.h(367,18): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\Курсовая Л и ОА\max_matching\max_matching\MyForm.h(370,18): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\Курсовая Л и ОА\max_matching\max_matching\MyForm.h(460,16): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\Курсовая Л и ОА\max_matching\max_matching\MyForm.h(452,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  max_matching.vcxproj -> D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\Курсовая Л и ОА\max_matching\Debug\max_matching.exe

@@ -1,0 +1,3 @@
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\Курсовая Л и ОА\max_matching\max_matching\x64\Debug\max_matching.vcxproj.AssemblyReference.cache
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\Курсовая Л и ОА\max_matching\max_matching\x64\Debug\maxmatching.MyForm.resources
+D:\ПГУ. Учебные пособия\3 семестр\Л и ОА в ИЗ\Курсовая Л и ОА\max_matching\max_matching\x64\Debug\max_matching.vcxproj.GenerateResource.cache
